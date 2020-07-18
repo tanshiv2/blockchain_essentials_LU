@@ -1,0 +1,29 @@
+﻿1. What is your understanding of Blockchain?
+
+Blockchain is, as the name suggests, a chain of blocks. It is a combination of distributed database systems and cryptography which creates an immutable ledger. Distributed database systems provide decentralization whereas cryptography provides security in the form of hash algorithms. Some other properties of blockchain  are transparency and immutability.
+
+
+2. What is the core problem blockchain trying to solve?
+
+The core problem is the dependence on third party vendors like amazon. Trust of users is on third party companies. The other two problems are authenticity and security. Anyone on the internet can post anything without the credibility of information (fake news for example). 
+
+
+3. What are the features that the blockchain will give you?
+
+	1. Verifiability
+	2. Immutability - Data cannot die, cannot change
+	3. Tamper-proof - cryptography provides security in a way that data cannot be tampered
+	4. Unchangeable 
+
+
+4. What are all the things the block contains?
+
+	1. Block number
+	2. Mining key
+	3. Previous hash
+	4. Transaction data of block
+
+
+5. How is the verifiability of blockchain can be achieved?
+
+Verifiability of blockchain can be achieved with the help of distributed database systems where every user of the blockchain has a record of all the transactions taken till date. Since, all the users will have the same data and hashes in the process, they must all have the same hash at the end. This hash can be used to check if everyone has the correct chronological order of the same data.
